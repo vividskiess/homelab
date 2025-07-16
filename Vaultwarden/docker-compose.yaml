@@ -8,4 +8,4 @@ services:
     ports:
       - '80:80'
     environment:
-      - 'SIGNUPS_ALLOWED=false'
+      - SIGNUPS_ALLOWED=true
